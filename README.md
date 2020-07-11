@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning Azure
-- 📫 How to reach me: ...
-- 😄 Pronouns: he/him
+- 🌱 I’m currently learning ![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/azure.png)
+- 📫 How to reach me: ![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/linkedin.png) ![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/stackoverflow.png) ![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/twitter.png)
+- 😄 Pronouns: he/him 
