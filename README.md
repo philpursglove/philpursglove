@@ -6,6 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning ![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/azure.png)
+- 🌱 I’m currently learning <a href="#"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/azure.svg" alt="Azure" style="vertical-align:top margin:6px 4px"></a>
 - 📫 How to reach me: ![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/linkedin.png) ![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/stackoverflow.png) ![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/twitter.png)
-- 😄 Pronouns: he/him 
+- 😄 Pronouns: <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/pronouns/hehim.svg" alt="he/him" style="vertical-align:top margin:6px 4px">
+  </a> 
+
